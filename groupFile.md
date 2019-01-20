@@ -1,5 +1,5 @@
-##Team name: \#TODO: Group Name
+## Team name: \#TODO: Group Name
 ------
-####Members:
+###  Members:
 - Rick Sear
 - Sutton Howell
